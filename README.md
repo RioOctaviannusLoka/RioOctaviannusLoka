@@ -3,7 +3,7 @@ I'm a currently exploring exploring the ever-evolving tech world 💻 with a foc
 <br/>
 <br/>
 
-<img align="right" alt="Coding GIF" width="360" src= "https://github.com/user-attachments/assets/65efc51a-83ee-4145-ac14-4f3d92c335c3"/>
+<img align="right" alt="Coding GIF" width="350" src= "https://github.com/user-attachments/assets/65efc51a-83ee-4145-ac14-4f3d92c335c3"/>
 
 ### 🔍 More About Me:
 
