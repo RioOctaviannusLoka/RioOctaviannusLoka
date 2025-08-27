@@ -10,7 +10,7 @@ I'm a currently exploring exploring the ever-evolving tech world 💻 with a foc
 - 🔭 I’m currently studying Computer Science in Universitas Sumatera Utara
 - 🌱 I’m currently learning Mobile Development with Kotlin and Flutter
 - 💬 Ask me about anything about mobile development and web development
-- 📫  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rio-octaviannus-loka/) and [Hugging Face](https://huggingface.co/riooctaviannusloka)
+- 📫  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rio-octaviannus-loka/), [Docker Hub](https://hub.docker.com/u/riooloka) and [Hugging Face](https://huggingface.co/riooctaviannusloka)
 - ⚡ Fun fact **I consider stack overflow both a lifesaver and a badge of honor 🏅**
 
 ### 🔨 Languages and Tools:
