@@ -31,16 +31,16 @@
     <summary><strong>Languages</strong></summary>
     <br>
     <div>
-        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=c" alt="c"/> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus"/> </a>
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html5"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css3"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/> </a>
-        <a href="https://www.php.net" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php"/> </a>
-        <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java"/> </a>
-        <a href="https://kotlinlang.org" target="_blank"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin"/> </a>
-        <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="dart"/> </a>
-        <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python"/> </a>
+        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=c" alt="c"/></a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus"/></a>
+        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html5"/></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="css3"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript"/></a>
+        <a href="https://www.php.net" target="_blank"> <img src="https://skillicons.dev/icons?i=php" alt="php"/></a>
+        <a href="https://www.java.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="java"/></a>
+        <a href="https://kotlinlang.org" target="_blank"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin"/></a>
+        <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" alt="dart"/></a>
+        <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python"/></a>
     </div>
 </details>
 
@@ -48,20 +48,20 @@
     <summary><strong>Frameworks & Libraries</strong></summary>
     <br>
     <div>
-        <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/> </a>
-        <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/> </a>
-        <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss"/> </a>
-        <a href="https://react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react"/> </a>       
-        <a href="https://flutter.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter"/> </a>
-        <a href="https://numpy.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="numpy"/> </a>
-        <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas"/> </a>
-        <a href="https://matplotlib.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib"/> </a>
-        <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="seaborn"/> </a>
-        <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="scikit-learn"/> </a>
-        <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow"/> </a>
-        <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch"/> </a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"/> </a>
-        <a href="https://streamlit.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" alt="streamlit"/> </a>
+        <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
+        <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss"/></a>
+        <a href="https://react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" alt="react"/></a>       
+        <a href="https://flutter.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter"/></a>
+        <a href="https://numpy.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="numpy"/></a>
+        <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas"/></a>
+        <a href="https://matplotlib.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib"/></a>
+        <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="seaborn"/></a>
+        <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="scikit-learn"/></a>
+        <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow"/></a>
+        <a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch"/></a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"/></a>
+        <a href="https://streamlit.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" alt="streamlit"/></a>
     </div>
 </details>
 
@@ -69,11 +69,11 @@
     <summary><strong>Databases</strong></summary>
     <br>
     <div>
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/> </a>
-        <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql"/> </a>
-        <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/> </a>
-        <a href="https://redis.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=redis" alt="redis"/> </a>
-        <a href="https://redis.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" alt="sqlalchemy"/> </a>
+        <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/></a>
+        <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql"/></a>
+        <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/></a>
+        <a href="https://redis.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=redis" alt="redis"/></a>
+        <a href="https://redis.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" alt="sqlalchemy"/></a>
     </div>
 </details>
 
@@ -81,22 +81,22 @@
     <summary><strong>Tools & Technologies</strong></summary>
     <br>
     <div>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git"/> </a>
-        <a href="https://www.anaconda.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda"/> </a>
-        <a href="https://developer.android.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="android studio"/> </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="intellij idea"/> </a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm"/> </a>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="git"/> </a>
-        <a href="https://www.jwt.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" alt="jwt"/> </a>
-        <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq"/> </a>
-        <a href="https://postman.com" target="_blank"> <img src="https://skillicons.dev/icons?i=postman" alt="postman"/> </a>
-        <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker"/> </a>
-        <a href="https://colab.research.google.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" alt="google colab"/> </a>
-        <a href="https://jupyter.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="jupyter notebook"/> </a>
-        <a href="https://grafana.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" alt="grafana"/> </a>
-        <a href="https://prometheus.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" alt="prometheus"/> </a>
-        <a href="https://mlflow.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" alt="mlflow"/> </a>
-        <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma"/> </a>
+        <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git"/></a>
+        <a href="https://www.anaconda.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda"/></a>
+        <a href="https://developer.android.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="android studio"/></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="intellij idea"/></a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm"/></a>
+        <a href="https://git-scm.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="git"/></a>
+        <a href="https://www.jwt.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" alt="jwt"/></a>
+        <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq"/></a>
+        <a href="https://postman.com" target="_blank"> <img src="https://skillicons.dev/icons?i=postman" alt="postman"/></a>
+        <a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" alt="docker"/></a>
+        <a href="https://colab.research.google.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" alt="google colab"/></a>
+        <a href="https://jupyter.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="jupyter notebook"/></a>
+        <a href="https://grafana.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" alt="grafana"/></a>
+        <a href="https://prometheus.io/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" alt="prometheus"/></a>
+        <a href="https://mlflow.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" alt="mlflow"/></a>
+        <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma"/></a>
     </div>
 </details>
 
