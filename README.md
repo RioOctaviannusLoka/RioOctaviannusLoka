@@ -122,3 +122,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+dropping+by!;Let's+connect;and+write+some+code!" alt="Typing SVG" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/riooctaviannusloka/riooctaviannusloka/output/github-contribution-snake.svg" alt="Snake Animation"/>
