@@ -105,8 +105,10 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtpNjVyN2d4amtkNjJwcjV1MzZuaTUyMGljenptZW50ZW1jNWZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cVGMVFlrrDRfXmPBT/giphy.gif" width=3%> Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&layout=compact&" alt="riooctaviannusloka" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&" alt="riooctaviannusloka" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riooctaviannusloka&show_icons=true&theme=algolia&locale=en&count_private=true" alt="riooctaviannusloka"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=riooctaviannusloka&show_icons=true&theme=algolia&locale=en&layout=compact" alt="riooctaviannusloka" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="riooctaviannusloka" /> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="riooctaviannusloka" /> -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=riooctaviannusloka&theme=dark&hide_border=false">
 </div>
 
