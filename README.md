@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%2C%20%26lt%3B𝚌𝚘𝚍𝚎𝚛𝚜%2F%26gt%3B!&animation=fadeIn&color=gradient&height=100"/>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Rio%20Octaviannus%20Loka&animation=twinkling&color=gradient&height=80" height=55/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%2C%20%26lt%3B𝚌𝚘𝚍𝚎𝚛𝚜%2F%26gt%3B!&animation=fadeIn&color=gradient&fontColor=ffffff&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Rio%20Octaviannus%20Loka&animation=twinkling&color=gradient&fontColor=ffffff&height=80" height=55/>
 </div>
 
 <div align="center">
