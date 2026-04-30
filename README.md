@@ -123,4 +123,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/riooctaviannusloka/riooctaviannusloka/output/github-contribution-snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/riooctaviannusloka/riooctaviannusloka/output/github-contribution-snake-dark.svg" alt="Snake Animation"/>
