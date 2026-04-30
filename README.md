@@ -110,6 +110,7 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="riooctaviannusloka" /> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riooctaviannusloka&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="riooctaviannusloka" /> -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=riooctaviannusloka&theme=dark&hide_border=false">
+  <img src="https://raw.githubusercontent.com/riooctaviannusloka/riooctaviannusloka/output/github-contribution-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <br>
@@ -120,7 +121,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=42&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+dropping+by!;Let's+connect;and+write+some+code!" alt="Typing SVG" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/riooctaviannusloka/riooctaviannusloka/output/github-contribution-snake-dark.svg" alt="Snake Animation"/>
