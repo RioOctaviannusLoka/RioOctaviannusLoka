@@ -7,6 +7,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=42&pause=1000&color=2074E3&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Mobile+%26+Backend+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
+
+<br/>
+
+<div align="center">
+  <a href="https://rioloka.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4F8Ef7?style=for-the-badge&logoColor=white" width="250" alt="Portfolio"/>
+  </a>
+</div>
+
 <br/>
 
 <!-- Another assets for connect icon -->
